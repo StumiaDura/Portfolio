@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5702a4dc.css",
-    "main.js": "/Portfolio/static/js/main.952b2bd8.js",
-    "static/js/854.65f9aa5f.chunk.js": "/Portfolio/static/js/854.65f9aa5f.chunk.js",
-    "static/js/114.198e4d3f.chunk.js": "/Portfolio/static/js/114.198e4d3f.chunk.js",
-    "static/js/758.8b4486d3.chunk.js": "/Portfolio/static/js/758.8b4486d3.chunk.js",
+    "main.js": "/Portfolio/static/js/main.d55c0432.js",
+    "static/js/854.88db729f.chunk.js": "/Portfolio/static/js/854.88db729f.chunk.js",
+    "static/js/114.df1b7518.chunk.js": "/Portfolio/static/js/114.df1b7518.chunk.js",
+    "static/js/758.c581d222.chunk.js": "/Portfolio/static/js/758.c581d222.chunk.js",
     "static/js/437.e0883232.chunk.js": "/Portfolio/static/js/437.e0883232.chunk.js",
     "static/js/44.dfafd476.chunk.js": "/Portfolio/static/js/44.dfafd476.chunk.js",
     "index.html": "/Portfolio/index.html",
     "static/media/getFetch.cjs": "/Portfolio/static/media/getFetch.7a7a1c81840c96d5a3ea.cjs",
     "main.5702a4dc.css.map": "/Portfolio/static/css/main.5702a4dc.css.map",
-    "main.952b2bd8.js.map": "/Portfolio/static/js/main.952b2bd8.js.map",
-    "854.65f9aa5f.chunk.js.map": "/Portfolio/static/js/854.65f9aa5f.chunk.js.map",
-    "114.198e4d3f.chunk.js.map": "/Portfolio/static/js/114.198e4d3f.chunk.js.map",
-    "758.8b4486d3.chunk.js.map": "/Portfolio/static/js/758.8b4486d3.chunk.js.map",
+    "main.d55c0432.js.map": "/Portfolio/static/js/main.d55c0432.js.map",
+    "854.88db729f.chunk.js.map": "/Portfolio/static/js/854.88db729f.chunk.js.map",
+    "114.df1b7518.chunk.js.map": "/Portfolio/static/js/114.df1b7518.chunk.js.map",
+    "758.c581d222.chunk.js.map": "/Portfolio/static/js/758.c581d222.chunk.js.map",
     "437.e0883232.chunk.js.map": "/Portfolio/static/js/437.e0883232.chunk.js.map",
     "44.dfafd476.chunk.js.map": "/Portfolio/static/js/44.dfafd476.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5702a4dc.css",
-    "static/js/main.952b2bd8.js"
+    "static/js/main.d55c0432.js"
   ]
 }
