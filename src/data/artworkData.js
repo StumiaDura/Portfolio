@@ -1,0 +1,182 @@
+
+const artworkAlbums = [
+  {
+    id: "digital-paintings",
+    title: "Digital Paintings",
+    titleKey: "albums.digital-paintings.title",
+    descriptionKey: "albums.digital-paintings.description",
+    cover: "/assets/french-bulldog-digital-drawing.jpg",
+    coverAlt: "Cover for Digital Paintings album, showing a digital painting of a French Bulldog.",
+    fontClass: "font-dm-serif",
+    images: [
+      { src: "/assets/french-bulldog-digital-drawing.jpg", alt: "A digital painting of a French Bulldog" },
+      { src: "/assets/keep-walking-digital-drawing.jpg", alt: "A digital drawing of a dog with Keep Walking text" },
+      { src: "/assets/vw-jetta-digital-drawing.jpg", alt: "A digital drawing of a Volkswagen Jetta 1984" },
+      { src: "/assets/Vilnius_700-digital-drawing.jpg", alt: "Digital painting made for Vilnius city 700 year anniversary" },
+      { src: "/assets/stand-off-digital-comic.jpg", alt: "A digital drawing of a pigeon and seagull stand off wild west style" },
+      { src: "/assets/hammer-time-digital-drawing.jpg", alt: "A digital drawing of a movie scene" },
+      { src: "/assets/bear-digital-drawing.jpg", alt: "A digital drawing of a bear" },
+      { src: "/assets/battle-scars-digital-drawing.jpg", alt: "A digital drawing of two creatures with battle scars" },
+      { src: "/assets/faces-digital-drawing.jpg", alt: "A digital drawing of faces" },
+      { src: "/assets/medusa-digital-drawing.jpg", alt: "A digital drawing of medusa with snakes" }
+    ],
+  },
+  {
+    id: "sketches",
+    title: "Sketches & Doodles",
+    titleKey: "albums.sketches.title",
+    descriptionKey: "albums.sketches.description",
+    cover: "/assets/crazy-eyes-sketch.png",
+    coverAlt: "Cover for Sketches & Doodles album, showing a sketch of a character with crazy eyes.",
+    fontClass: "font-patrick-hand",
+    images: [
+      { src: "/assets/crazy-eyes-sketch.png", alt: "A sketch of a character with crazy eyes" },
+      { src: "/assets/sandclock-sketch.jpg", alt: "A sketch of a sandlclock trippy" },
+      { src: "/assets/trees-sketch2.png", alt: "A sketch of a trippy tree" },
+      { src: "/assets/tree-sketch.jpg", alt: "A sketch of an evergreen tree" },
+      { src: "/assets/silouette-sketch.png", alt: "A sketch of a tree and creature silhouette" },
+      { src: "/assets/lizard-sketch.png", alt: "A sketch of a trippy lizard" },
+      { src: "/assets/crab-sketch.png", alt: "A sketch of a crab" },
+      { src: "/assets/burning-man-sketch.png", alt: "A sketch of a burning head of man" },
+      { src: "/assets/sheep-sketch.png", alt: "A sketch of a sheep" },
+      { src: "/assets/snail-sketch.png", alt: "A sketch of a snail" }
+    ],
+  },
+  {
+    id: "oil-pastel",
+    title: "Oil & Pastel",
+    titleKey: "albums.oil-pastel.title",
+    descriptionKey: "albums.oil-pastel.description",
+    cover: "/assets/oil-pastel-drawing.jpg",
+    coverAlt: "Cover for Oil & Pastel album, showing an oil pastel portrait of a man with red hair.",
+    fontClass: "font-cormorant",
+    images: [
+      { src: "/assets/oil-pastel-drawing.jpg", alt: "A oil pastel drawing portrait of a man with red hair" },
+      { src: "/assets/colored-people-pastel-drawing.jpg", alt: "A oil pastel drawing portrait of a colorful man" },
+      { src: "/assets/colored-people2-pastel-drawing.jpg", alt: "A oil pastel drawing portrait of a colorful man version 2" },
+      { src: "/assets/oil-pastel-drawing2.jpg", alt: "A oil pastel drawing of an interesting character" },
+      { src: "/assets/oil-painting-skeleton.jpg", alt: "A oil painting of a sceleton with crazy hair" },
+      { src: "/assets/oil-painting-girl.jpg", alt: "A oil and oil pastel painting of a girl with flowers" },
+      { src: "/assets/oil-painting-scenery.jpg", alt: "A oil panting of a scenery" },
+      { src: "/assets/oil-painting-cyprus.jpg", alt: "A oil painting of a scenery in Cyprus" },
+      { src: "/assets/oil-pastel-drawing3.jpg", alt: "A oil pastel drawing of a mountain view with decorated flowers on canvas" },
+      { src: "/assets/oil-pastel-fungi-pastel-drawing.jpg", alt: "A oil pastel drawing of Flammulina Velutipes fungi" }
+    ],
+  },
+];
+
+const photoAlbums = [
+  {
+    id: "cars",
+    title: "Cars",
+    titleKey: "albums.cars.title",
+    descriptionKey: "albums.cars.description",
+    coverAlt: "An album cover showing a rally car kicking up dust on a dirt road.",
+    cover: "/assets/rally-car-speeding-photo3.jpg",
+    fontClass: "font-syncopate",
+    images: [
+      { src: "/assets/rally-car-speeding-photo3.jpg", alt: "A gray BMW rally car speeding past" },
+      { src: "/assets/rally-car-speeding-photo4.jpg", alt: "A red BMW rally car speeding past" },
+      { src: "/assets/rally-car-speeding-photo2.jpg", alt: "A dark green BMW rally car speeding past" },
+      { src: "/assets/rally-car-speeding-photo.jpg", alt: "A dark green BMW rally car speeding past kicking up dust" },
+      { src: "/assets/audi-coupe-logo-photo.jpg", alt: "A Audi coupe logo photo" },
+      { src: "/assets/bmw-carshow-vintage.jpg", alt: "A vintage BMW car" },
+      { src: "/assets/carshow-american-car.jpg", alt: "A back tyre of an American car in a car show" },
+      { src: "/assets/carshow-americancar-wheel.jpg", alt: "Close up of a front tyre of an American car" },
+      { src: "/assets/citroen-frontlight-photo.jpg", alt: "A close up of a vintage Citroen car frontlight" },
+      { src: "/assets/bmw-wheel-photo-bbs.jpg", alt: "A front tyre of a BMW car with BBS wheels" }
+    ],
+  },
+  {
+    id: "churches",
+    title: "Churches",
+    titleKey: "albums.churches.title",
+    descriptionKey: "albums.churches.description",
+    coverAlt: "The grand, ornate interior of a historic church.",
+    cover: "/assets/church-interior-photo.jpg",
+    fontClass: "font-cinzel",
+    images: [
+      { src: "/assets/church-interior-photo.jpg", alt: "A photo of the interior of a church" },
+      { src: "/assets/church-interior-photo2.jpg", alt: "A photo of the interior of a church" },
+      { src: "/assets/church-interior-photo-altair.jpg", alt: "A photo of the interior of a church altair" },
+      { src: "/assets/orthodox-church-altair.jpg", alt: "A photo of an orthodox church altair" },
+      { src: "/assets/saint-theres-church-interior.jpg", alt: "A photo of the saint theres church interior" },
+      { src: "/assets/saint-jurgis-church-interior.jpg", alt: "A photo of the saint jurgis church interior" },
+      { src: "/assets/saint-peter-saint-paul-church-altair.jpg", alt: "A photo of the saint peter saint paul church altair" },
+      { src: "/assets/saint-jurgis-church-interior.jpg", alt: "A photo of the saint jurgis church interior" },
+      { src: "/assets/church-of-saint-casimir.jpg", alt: "A photo of the saint casimir church" },
+      { src: "/assets/saint-john-paul-church-details.jpg", alt: "A photo of saint john paul church details" }
+
+    ],
+  },
+  {
+    id: "nature",
+    title: "Nature",
+    titleKey: "albums.nature.title",
+    descriptionKey: "albums.nature.description",
+    coverAlt: "A photo of a waterfall in Cyprus",
+    cover: "/assets/waterfall-cyprus.jpg",
+    fontClass: "font-lora",
+    images: [
+      { src: "/assets/waterfall-cyprus.jpg", alt: "A photo of a waterfall in Cyprus" },
+      { src: "/assets/mountains-cyprus.jpg", alt: "A photo of mountains in Cyprus" },
+      { src: "/assets/sea-chair-cyprus.jpg", alt: "A photo of a chair near the sea in Cyprus" },
+      { src: "/assets/big-tree-cyprus.jpg", alt: "A photo of a big tree in Cyprus" },
+      { src: "/assets/monastery-buildings-cyprus.jpg", alt: "A photo of a monastery buildings in Cyprus" },
+      { src: "/assets/monastery-landscape-cyprus.jpg", alt: "A photo of a monastery landscape in Cyprus" },
+      { src: "/assets/blue-sea-rocks-cyprus.jpg", alt: "A photo of blue sea and rocks in Cyprus" },
+      { src: "/assets/beach-blue-sea-cyprus.jpg", alt: "A photo of a blue sea and beach in Cyprus" },
+      { src: "/assets/stairs-beach-cyprus.jpg", alt: "A photo of stairs on a beach in Cyprus" },
+      { src: "/assets/cave-rocks-sea-cyprus.jpg", alt: "A photo of a sea cave with rocks in Cyprus" },
+      { src: "/assets/stairs-to-sea-cyprus.jpg", alt: "A photo of stairs to a sea in Cyprus" },
+      { src: "/assets/waterfall-lithuania-summer.jpg", alt: "A photo of a waterfall in Lithuania" },
+      { src: "/assets/green-lakes-landscape.jpg", alt: "A photo of green lakes in Lithuania" },
+      { src: "/assets/waterfall-vilnius-winter2.jpg", alt: "A photo of a waterfall in Lithuania" },
+      { src: "/assets/waterfall-vilnius-winter.jpg", alt: "A photo of a waterfall in winter" }
+    ],
+  },
+  {
+    id: "insects",
+    title: "Animals",
+    titleKey: "albums.insects.title",
+    descriptionKey: "albums.insects.description",
+    coverAlt: "A macro photograph of a bumble bee on a flower.",
+    cover: "/assets/bumble-bee-close-up.jpg",
+    fontClass: "font-rock-salt",
+    images: [
+      { src: "/assets/bumble-bee-close-up.jpg", alt: "A photo of a bumble bee on a flower" },
+      { src: "/assets/toad-picture.jpg", alt: "A photo of a toad" },
+      { src: "/assets/spider-close-up.jpg", alt: "A photo of a spider close up" },
+      { src: "/assets/fly-photo-closeup.jpg", alt: "A photo of a fly close up" },
+      { src: "/assets/bird-in-water-photo.jpg", alt: "A photo of a bird in water" },
+      { src: "/assets/snail-photo-closeup.jpg", alt: "A photo of a snail close up" },
+      { src: "/assets/bird-small-photo.jpg", alt: "A photo of a small bird" },
+      { src: "/assets/ants-closeup-photo.jpg", alt: "A photo of ants close up" },
+      { src: "/assets/bug-closeup-photo.jpg", alt: "A photo of a bug close up" },
+      { src: "/assets/swan-picture.jpg", alt: "A photo of a swan" }
+    ],
+  },
+  {
+    id: "fungi",
+    title: "FUNGI",
+    titleKey: "albums.fungi.title",
+    descriptionKey: "albums.fungi.description",
+    cover: "/assets/flammulina-velutipes-closeup-undersides-fungi.jpg",
+    coverAlt: "A photo of flammulina velutipes fungi with intricate gills.",
+    fontClass: "font-specimen",
+    images: [
+      { src: "/assets/flammulina-velutipes-closeup-undersides-fungi.jpg", alt: "A photo of flammulina velutipes fungi with intricate gills." },
+      { src: "/assets/flammulina-velutipes-closeup-undersides.jpg", alt: "A photo of flammulina velutipes fungi with intricate gills." },
+      { src: "/assets/flammulina-velutipes-closeup.jpg", alt: "A photo of flammulina velutipes fungi with intricate gills" },
+      { src: "/assets/flammulina-velutipes-cluster-fungi.jpg", alt: "A photo of a cluster of flammulina velutipes fungi" },
+      { src: "/assets/flammulina-velutipes-on-tree.jpg", alt: "A photo of flammulina velutipes fungi on a tree" },
+      { src: "/assets/fungi-with-cobwebs.jpg", alt: "A photo of fungi with cobwebs" },
+      { src: "/assets/lycoperdon-perlatum-fungi.jpg", alt: "A photo of lycoperdon perlatum fungi" },
+      { src: "/assets/pleurotus-ostreatus-growing-on-wood.jpg", alt: "A photo of pleurotus ostreatus growing on wood" },
+      { src: "/assets/small-flammulina-velutipes-fungi.jpg", alt: "A photo of a small cluster of flammulina velutipes fungi on a tree" },
+      { src: "/assets/small-fungi-closeup.jpg", alt: "A photo of a small fungi growing on a tree" }
+    ]
+  }
+];
+
+export default { artworkAlbums, photoAlbums };

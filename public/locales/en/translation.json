@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "subtitle": "I'm a photographer and artist with a passion for capturing moments and creating unique visual stories. Explore my collections to see the world through my lens."
+  },
+  "passions": {
+    "title": "My passions",
+    "photography_title": "Photography",
+    "photography_desc": "Moments captured through my lens.",
+    "artwork_title": "Artwork",
+    "artwork_desc": "A mix of digital paintings, sketches, and oil pastels.",
+    "blog_title": "Blog",
+    "blog_desc": "Thoughts, stories, and updates."
+  },
+  "contact": {
+    "title": "Got a question or idea?",
+    "subtitle": "I’d love to hear from you! Drop a message below and I’ll reply soon."
+  },
+  "footer": {
+    "home": "Home",
+    "contact": "Contact",
+    "copyright": "© {{year}} Lukas Klinga. All rights reserved."
+  },
+  "contactForm": {
+    "success_title": "Thank you!",
+    "success_message": "Your message has been sent. I'll get back to you soon.",
+    "error_alert": "There was an error sending your message. Please try again.",
+    "label_name": "Name",
+    "placeholder_name": "Your Name",
+    "label_email": "Email",
+    "placeholder_email": "your.email@example.com",
+    "label_message": "Message",
+    "placeholder_message": "Your message...",
+    "button_send": "Send Message"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "Oops! The page you're looking for doesn't exist. It might have been moved or deleted.",
+    "button_home": "Go Back Home"
+  },
+  "gallery": {
+    "photography_title": "Step into my lens.",
+    "photography_desc": "Explore photo albums capturing moments, textures, and everyday beauty.",
+    "artwork_title": "A Journey Through My Art",
+    "artwork_desc": "A mix of digital paintings, quick sketches, and oil pastel pieces—each one created with curiosity and a love for trying new things."
+  },
+  "cta": {
+    "artwork_title": "I also create!",
+    "artwork_text": "Beyond the lens, I explore worlds of color and form. Dive into my artwork collection and see my imagination come to life.",
+    "artwork_button": "View My Artwork Collection",
+    "photography_title": "I also observe!",
+    "photography_text": "Through the lens, I capture everyday beauty. Step into my photography collection and see the world as I do.",
+    "photography_button": "View My Photography Collection"
+  },
+  "albums": {
+    "cars": { "title": "CARS", "description": "Rally action shots and car show highlights" },
+    "churches": { "title": "CHURCHES", "description": "Capturing the beauty and serenity within church walls." },
+    "nature": { "title": "NATURE", "description": "The intricate beauty of the natural world." },
+    "insects": { "title": "ANIMALS", "description": "A closer look at the creatures we share our world with." },
+    "digital-paintings": { "title": "Digital Paintings", "description": "A collection of my vibrant digital paintings." },
+    "sketches": { "title": "Sketches & Doodles", "description": "Various sketches, studies, and doodles." },
+    "oil-pastel": { "title": "Oil & Pastel", "description": "Expressive works in oil and pastel." },
+    "fungi": { "title": "FUNGI", "description": "A visual journal of fungi spotted in nature—curious shapes, textures, and colors from forest walks." }
+  },
+  "explore": {
+    "artwork_title": "Explore Other Artworks",
+    "photography_title": "Explore Other Photography"
+  },
+  "album_page": {
+    "back_to_artwork_gallery": "Back to Artwork Gallery",
+    "back_to_photography_gallery": "Back to Photography Gallery"
+  },
+  "fungi": {
+      "title": "FUNGI",
+      "description": "A visual journal of fungi spotted in nature—curious shapes, textures, and colors from forest walks."
+    }
+}

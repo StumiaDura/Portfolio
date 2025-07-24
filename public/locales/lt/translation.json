@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "subtitle": "Esu fotografas ir menininkas, fiksuojantis akimirkas ir kuriantis unikalias vizualines istorijas."
+  },
+  "passions": {
+    "title": "Mano hobiai",
+    "photography_title": "Fotografija",
+    "photography_desc": "Akimirkos, užfiksuotos per mano objektyvą.",
+    "artwork_title": "Meno kūriniai",
+    "artwork_desc": "Skaitmeninių paveikslų, eskizų ir aliejinių pastelių derinys.",
+    "blog_title": "Tinklaraštis",
+    "blog_desc": "Mintys, istorijos ir naujienos."
+  },
+  "contact": {
+    "title": "Turite klausimų ar idėjų?",
+    "subtitle": "Norėčiau išgirsti iš jūsų! Parašykite žinutę žemiau ir aš greitai atsakysiu."
+  },
+  "footer": {
+    "home": "Pradžia",
+    "contact": "Kontaktai",
+    "copyright": "© {{year}} Lukas Klinga. Visos teisės saugomos."
+  },
+  "contactForm": {
+    "success_title": "Ačiū!",
+    "success_message": "Jūsų žinutė išsiųsta. Greitai su jumis susisieksiu.",
+    "error_alert": "Siunčiant žinutę įvyko klaida. Bandykite dar kartą.",
+    "label_name": "Vardas",
+    "placeholder_name": "Jūsų vardas",
+    "label_email": "El. paštas",
+    "placeholder_email": "jusu.elpastas@example.com",
+    "label_message": "Žinutė",
+    "placeholder_message": "Jūsų žinutė...",
+    "button_send": "Siųsti žinutę"
+  },
+  "notFound": {
+    "title": "Puslapis nerastas",
+    "message": "Ups! Puslapis, kurio ieškote, neegzistuoja. Jis galėjo būti perkeltas arba ištrintas.",
+    "button_home": "Grįžti į pradžią"
+  },
+  "gallery": {
+    "photography_title": "Žvilgsnis per mano objektyvą.",
+    "photography_desc": "Naršykite nuotraukų albumus, kuriuose užfiksuotos akimirkos, tekstūros ir kasdienis grožis.",
+    "artwork_title": "Kelionė per mano meną",
+    "artwork_desc": "Skaitmeninių paveikslų, greitų eskizų ir aliejinių pastelių derinys – kiekvienas sukurtas su smalsumu ir meile išbandyti naujus dalykus."
+  },
+  "cta": {
+    "artwork_title": "Aš ir kuriu!",
+    "artwork_text": "Už objektyvo ribų aš tyrinėju spalvų ir formų pasaulius. Pasinerkite į mano meno kūrinių kolekciją ir pamatykite, kaip atgyja mano vaizduotė.",
+    "artwork_button": "Peržiūrėti mano meno kolekciją",
+    "photography_title": "Aš taip pat stebiu!",
+    "photography_text": "Per objektyvą aš fiksuoju kasdienį grožį. Ženkite į mano fotografijos kolekciją ir pamatykite pasaulį taip, kaip jį matau aš.",
+    "photography_button": "Peržiūrėti mano fotografijos kolekciją"
+  },
+  "albums": {
+    "cars": {
+      "title": "AUTOMOBILIAI",
+      "description": "Akimirkos iš automobilių šou ir ralio varžybų."
+    },
+    "churches": {
+      "title": "BAŽNYČIOS",
+      "description": "Užfiksuotas grožis ir ramybė bažnyčių viduje."
+    },
+    "nature": {
+      "title": "GAMTOVAIZDŽIAI",
+      "description": "Iamžintas gamtos pasaulio grožis."
+    },
+    "insects": {
+      "title": "GYVŪNAI",
+      "description": "Artimesnis žvilgsnis į būtybes, su kuriomis dalijamės pasauliu."
+    },
+    "digital-paintings": {
+      "title": "SKAITMENINIAI PAVEIKSLAI",
+      "description": "Mano ryškių skaitmeninių piešinių kolekcija."
+    },
+    "sketches": {
+      "title": "ESKIZAI IR PIEŠINIAI",
+      "description": "Įvairūs eskizai, studijos ir piešinėliai."
+    },
+    "oil-pastel": {
+      "title": "ALIEJINIAI DAŽAI IR PASTELĖS",
+      "description": "Išraiškingi darbai aliejumi ir pastele."
+    },
+    "fungi": {
+      "title": "GRYBAI",
+      "description": "Vizualus grybų dienoraštis – keistos formos, tekstūros ir spalvos iš pasivaikščiojimų miškuose."
+    }
+  },
+  "explore": {
+    "artwork_title": "Naršykite kitus meno kūrinius",
+    "photography_title": "Naršykite kitus fotografijos albumus"
+  },
+  "album_page": {
+    "back_to_artwork_gallery": "Grįžti į Meno kūrinių galeriją",
+    "back_to_photography_gallery": "Grįžti į Fotografijos galeriją"
+  },
+  "fungi": {
+      "title": "GRYBAI",
+      "description": "Vizualus grybų dienoraštis – keistos formos, tekstūros ir spalvos iš pasivaikščiojimų miškuose."
+    }
+}
