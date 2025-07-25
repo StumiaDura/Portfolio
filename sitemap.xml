@@ -8,26 +8,26 @@
 
   <!-- Static Pages -->
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/photography</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/artwork</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Add more URLs as needed -->
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/blog</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/blog</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -35,31 +35,31 @@
 
   <!-- Photography Albums -->
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/photography/cars</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/cars</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/photography/nature</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/nature</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/photography/animals</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/animals</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/photography/fungi</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/fungi</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/photography/churches</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/churches</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -67,31 +67,31 @@
 
   <!-- Artwork Albums -->
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/artwork/digital-art</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/digital-art</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/artwork/oil-paintings</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/oil-paintings</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/artwork/oil-pastels</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/oil-pastels</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/artwork/sketches</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/sketches</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stumiadura.github.io/Portfolio/#/artwork/doodles</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/doodles</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
