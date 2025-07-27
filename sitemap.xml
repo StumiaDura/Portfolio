@@ -25,17 +25,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <!-- Add more URLs as needed -->
-  <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/blog</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 
   <!-- Photography Albums -->
   <url>
     <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/cars</loc>
+    <lastmod>2024-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/churches</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -47,7 +46,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/animals</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/insects</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -58,28 +57,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/photography/churches</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
 
   <!-- Artwork Albums -->
   <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/digital-art</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/oil-paintings</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/oil-pastels</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/digital-paintings</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -91,7 +72,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/doodles</loc>
+    <loc>https://kavospuodelisart.github.io/Portfolio/#/artwork/oil-pastel</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
