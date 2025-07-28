@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      // This script captures the path a user was trying to access and redirects
+      // them to the main index.html, passing the original path as a query parameter.
+      // The base path `/Portfolio` is used, as inferred from your project's build configuration.
+      window.location.replace(
+        '/Portfolio/?redirect=' + window.location.pathname + window.location.search + window.location.hash
+      );
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
